@@ -3,12 +3,12 @@ import mongoose from "mongoose";
 const productSchema = new mongoose.Schema(
   {
     description: {
-      required: true,
       type: String,
+      required: true,
     },
     name: {
-      required: true,
       type: String,
+      required: true,
     },
     productImage: {
       type: String,
@@ -18,8 +18,8 @@ const productSchema = new mongoose.Schema(
       default: 0,
     },
     stock: {
-      default: 0,
       type: Number,
+      default: 0,
     },
     category: {
       type: mongoose.Schema.Types.ObjectId,
