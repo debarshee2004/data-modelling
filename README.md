@@ -2,6 +2,18 @@
 
 Data modeling is the process of creating a conceptual representation of data objects, relationships between data, and rules governing those relationships. It helps to organize and structure data in a way that makes it easy to understand, analyze, and use. Here are the steps to perform data modeling:
 
+## Examples: 
+
+### Todo Model
+
+![image](https://github.com/debarshee2004/data_modelling/assets/129538241/4afbdff4-f595-4109-a84f-72cbf6aa7f2c)
+
+### Ecommerce Model
+
+![image](https://github.com/debarshee2004/data_modelling/assets/129538241/9f9de0c8-572c-40a2-8b0a-311fb4531fdb)
+
+## Methodology:
+
 ### 1. Identify the Purpose:
    - Determine the goal of the data model. Are you modeling for a specific application, reporting, or analysis?
 
@@ -42,6 +54,3 @@ Data modeling is the process of creating a conceptual representation of data obj
    - Regularly review and update the data model to reflect changes in the business or data landscape.
 
 By following these steps, you can create a robust data model that serves the needs of your organization and facilitates effective data management and analysis.
-## Todo Model
-
-![image](https://github.com/debarshee2004/data_modelling/assets/129538241/4afbdff4-f595-4109-a84f-72cbf6aa7f2c)
